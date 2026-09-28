@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Temporary files
+temp_frame.jpg
+
+# Generated outputs
+output/
+*.mp4
+*.avi
+
+# Colab
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+.env
